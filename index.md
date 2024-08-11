@@ -2,4 +2,4 @@
 layout:page
 title: "Info about Nicholas Lambkin"
 ---
-Hi, my name is Nicholas Lambkin and I'm a rising junior at Excelsior Preporatory High School. I'm a honor role student and received an award for math in 2019. I enjoy reading and problem solving.
+Hi there! My name is Nicholas Lambkin, and I attend Excelsior Preparatory High School as a rising junior. I am seventeen years old, having been born on June 13, 2007. I was awarded a math prize in 2019 and I'm an honor role student. My goal is to work in business law as I like reading and solving problems.
